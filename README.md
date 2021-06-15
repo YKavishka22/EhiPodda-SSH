@@ -25,7 +25,7 @@ EhiPodda-SSH MANAGER is a script with a set of features and tools suitable to of
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OfficialBawwa/Ehipodda-ssh/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/YKavishka22/EhiPodda-SSH/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 IF THEY NEED TO REINSTALL THE SCRIPTS, YOU CAN EXECUTE THE COMMAND: (sshplus)
@@ -52,8 +52,8 @@ https://raw.githubusercontent.com/OfficialBawwa/Ehipodda-ssh/master/versao
 ## :octocat: Contribute
 
 1. @crazy_vpn - Developer of SSHPlus Manager
-2. Bawwa Official - C.E.O. of HARP And Moderrator of EhiPodda-Ssh
-2. Team NNeettwwoorrkk  Hacker - Contributor 
+2. Bawwa Official - C.E.O. of HARP And Moderator of EhiPodda-Ssh
+3. Team GOH - Some Contributations...
 
 ```
 * SIN MINERIA! 
