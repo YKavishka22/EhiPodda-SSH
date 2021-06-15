@@ -24,10 +24,10 @@ fun_menu() {
         local env_msg
 	env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------EHIPODDDA SSH MANAGER----------</b>\n"
+	env_msg+="<b>            BY Bawwa Official     </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>     Tell any fkin errors at HARP Chat   </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
@@ -44,10 +44,10 @@ fun_menu() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------EHIPODDDA SSH MANAGER----------</b>\n"
+	env_msg+="<b>            BY Bawwa Official     </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>      Tell any fkin errors at HARP Chat   </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
@@ -58,10 +58,10 @@ fun_menu() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------EHIPODDDA SSH MANAGER----------</b>\n"
+	env_msg+="<b>            BY Bawwa Official     </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>     Tell any fkin errors at HARP Chat   </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
@@ -87,10 +87,10 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------EHIPODDDA SSH MANAGER----------</b>\n"
+	env_msg+="<b>            BY Bawwa Official     </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>     Tell any fkin errors at HARP Chat   </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
@@ -127,10 +127,10 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------EHIPODDDA SSH MANAGER----------</b>\n"
+	env_msg+="<b>            BY Bawwa Official      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>     Tell any fkin errors at HARP Chat    </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
@@ -157,10 +157,10 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------EHIPODDDA SSH MANAGER----------</b>\n"
+	env_msg+="<b>            BY Bawwa Official     </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>     Tell any fkin errors at HARP Chat   </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
@@ -818,7 +818,7 @@ fun_download() {
     echo $_file2
     ShellBot.sendDocument --chat_id ${message_from_id[$id]} \
         --document "@/etc/bot/arquivos/$_file" \
-        --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬")" \
+        --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
         --parse_mode html
     [[ -e "/root/$(awk -F " " '/Nome/ {print $2}' $_file2).ovpn" ]] && {
         ShellBot.sendDocument --chat_id ${message_from_id[$id]} \
@@ -901,7 +901,7 @@ backup_users() {
     }
     rm /root/backup.vps 1>/dev/null 2>/dev/null
     ShellBot.answerCallbackQuery --callback_query_id ${callback_query_id[$id]} \
-        --text "♻️ CREATING USERS BACKUP"
+        --text "♻️ CREATING USERS BACKUP ♻️"
     tar cvf /root/backup.vps /root/usuarios.db /etc/shadow /etc/passwd /etc/group /etc/gshadow /etc/bot /etc/SSHPlus/senha 1>/dev/null 2>/dev/null
     ShellBot.sendDocument --chat_id ${id_admin} \
         --document "@/root/backup.vps" \
@@ -995,13 +995,13 @@ fun_teste() {
         for arqv in $(ls /etc/bot/arquivos); do
             ShellBot.sendDocument --chat_id ${message_from_id[$id]} \
                 --document "@/etc/bot/arquivos/$arqv" \
-                --caption "$(echo -e "✅ Successfully created ✅\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ Username • ๛ <code>$usuario</code>\nᗚ Password • ๛ <code>1234</code>\n\n⏳ ᗚ Expire • $t_time $hrs")\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬" \
+                --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
                 --parse_mode html
         done
         return 0
     } || {
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-            --text "$(echo -e "✅ <b>Successfully created</b> ✅\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ IP • ๛ $(cat /etc/IP)\nᗚ Username • ๛ <code>$usuario</code>\nᗚ Password • ๛ <code>1234</code>\n\n⏳ ᗚ Expire • $t_time $hrs")\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬" \
+            --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
             --parse_mode html
         return 0
     }
@@ -1544,7 +1544,7 @@ fun_dat_rev() {
     }
     [[ "${callback_query_from_id[$id]}" == "$id_admin" ]] || [[ "$(grep -wc ${callback_query_from_username} $ativos)" != '0' ]] && {
         ShellBot.sendMessage --chat_id ${callback_query_message_chat_id[$id]} \
-            --text "📆 CHANGE RESALE DATE 📆\n\nInform his user [Ex: @sibatrow]:" \
+            --text "📆 CHANGE RESALE DATE 📆\n\nInform his user [Ex: @Official_Bawwa]:" \
             --reply_markup "$(ShellBot.ForceReply)"
     } || {
         ShellBot.answerCallbackQuery --callback_query_id ${callback_query_id[$id]} \
@@ -1656,7 +1656,7 @@ fun_susp_rev() {
     }
     [[ "${callback_query_from_id[$id]}" == "$id_admin" ]] || [[ "$(grep -wc ${callback_query_from_username} $ativos)" != '0' ]] && {
         ShellBot.sendMessage --chat_id ${callback_query_message_chat_id[$id]} \
-            --text "🔒 SUSPEND RESELLER 🔒\n\nInform his user [Ex: @sibatrow]:" \
+            --text "🔒 SUSPEND RESELLER 🔒\n\nInform his user [Ex: @Official_Bawwa]:" \
             --reply_markup "$(ShellBot.ForceReply)"
     } || {
         ShellBot.answerCallbackQuery --callback_query_id ${callback_query_id[$id]} \
@@ -1935,7 +1935,7 @@ while :; do
                     sizemin=$(echo -e ${#message_text[$id]})
                     [[ "$sizemin" -lt '4' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "❌ Error !\n\nUse at least 4 characters\n[EX: sithum]")" \
+                            --text "$(echo -e "❌ Error !\n\nUse at least 4 characters\n[EX: bawwa]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -1943,7 +1943,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "❌ Error !\n\nUse a maximum of 8 characters\n[EX: sbatrow]")" \
+                            --text "$(echo -e "❌ Error !\n\nUse a maximum of 8 characters\n[EX: bawwa]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -1959,7 +1959,7 @@ while :; do
                     [[ "$_erro" == '1' ]] && break
                     [[ "$sizepass" -lt '4' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "❌ Error !\n\nUse at least 4 characters\n[EX: sithum]")" \
+                            --text "$(echo -e "❌ Error !\n\nUse at least 4 characters\n[EX: bawwa]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -2026,7 +2026,7 @@ while :; do
                             --reply_markup "$(ShellBot.ForceReply)"
                     } || {
                         ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                            --text "<b>✅ SUCCESSFULLY CREATED ✅</b>\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ IP • ๛ $(cat /etc/IP)\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $CAD_ARQ)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $CAD_ARQ)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $CAD_ARQ)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $CAD_ARQ)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬" \
+                            --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
                             --parse_mode html
                         break
                     }
@@ -2039,7 +2039,7 @@ while :; do
                             --text "$(echo -e "❌ Invalid option ❌\n\n⚠️ Use only letters [EX: sithum batrow]")" \
                             --parse_mode html
                         ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                            --text "<b>✅ SUCCESSFULLY CREATED ✅</b>\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ IP • ๛ $(cat /etc/IP)\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $CAD_ARQ)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $CAD_ARQ)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $CAD_ARQ)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $CAD_ARQ)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬" \
+                            --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
                             --parse_mode html
                         break
                     }
@@ -2059,7 +2059,7 @@ while :; do
                             --reply_markup "$(ShellBot.ForceReply)"
                     } || {
                         ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                            --text "<b>✅ SUCCESSFULLY CREATED ✅</b>\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ IP • ๛ $(cat /etc/IP)\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $CAD_ARQ)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $CAD_ARQ)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $CAD_ARQ)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $CAD_ARQ)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬" \
+                            --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
                             --parse_mode html
                     }
                     ;;
@@ -2071,7 +2071,7 @@ while :; do
                             --text "$(echo -e "❌ Invalid option ❌ \n\n⚠️ Use only numbers [EX: 1]")" \
                             --parse_mode html
                         ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
-                            --text "<b>✅ SUCCESSFULLY CREATED ✅</b>\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ IP • ๛ $(cat /etc/IP)\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $CAD_ARQ)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $CAD_ARQ)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $CAD_ARQ)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $CAD_ARQ)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬" \
+                            --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️ Private SSH ♻️\n\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\nඅන්තිමට රෙද්ද උස්සන් එන්න එපා බව්ව ගාවට 😑\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\nහදාගත්තනම් පලයන්කෝ වදනොදී 😎 [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ EHIPODDA_SSH ◇═ [•]☬")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
