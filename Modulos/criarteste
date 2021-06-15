@@ -62,9 +62,9 @@ at -f /etc/SSHPlus/userteste/$nome.sh now + $u_temp min > /dev/null 2>&1
 clear
 echo -e "\E[44;1;37m     Test User Created     \E[0m"
 echo ""
-echo -e "\033[1;32m♻️Paid Privet SSH ♻️"
+echo -e "\033[1;32m♻️ Private SSH ♻️"
 echo ""
-echo -e "\033[1;32m🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥"
+echo -e "\033[1;32mEHIPODDA Ssh"
 echo -e "\033[1;32m======================"
 echo -e "\033[1;32m=❌NO SPAM"
 echo -e "\033[1;32m=❌NO DDOS "
